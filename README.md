@@ -1,4 +1,5 @@
 # OGFN-Matchmaker
+(idk who's this is, I just open sourced it from someone else.)
 Works for Reload Backend, RebootGS, and should work for any backend or GS tbh.
 # GS SIDED CODE: 
 #include <iostream>
