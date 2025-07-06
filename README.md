@@ -1,5 +1,5 @@
 # OGFN-Matchmaker
-Works for Reload Backend, RebootGS, and should work for any backend or GS tbh. This logs ip's upon someone clicking start, you've been warned.
+Works for Reload Backend, RebootGS, and should work for any backend or GS tbh.
 # GS SIDED CODE: 
 #include <iostream>
 #include <curl/curl.h>
