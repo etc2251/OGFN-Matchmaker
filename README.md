@@ -21,9 +21,14 @@ void mm(const std::string& status) {
 
     curl_easy_cleanup(curl);
 }
- then just use it with 
+
+then just use it with this:
 mm("start");
-Put this in api.h 
+
+Put ts in api.h:
+
 void mm(const std::string& status);
+
+
 # Roadmap:
 Better how to use ✅
